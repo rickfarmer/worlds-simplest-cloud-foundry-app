@@ -1,0 +1,4 @@
+---
+applications:
+- name: hellow
+  memory: 512M
